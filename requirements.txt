@@ -1,0 +1,6 @@
+pillow
+pygetwindow
+pywin32
+mouse
+mss
+pynput
